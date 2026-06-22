@@ -167,7 +167,7 @@ La documentación técnica y académica del proyecto se encuentra incluida en el
 
 ## Video demostrativo
 
-Link al video demostrativo del sistema:
+Link al video demostrativo del sistema: https://drive.google.com/open?id=1MtPLZ23_TF1iXK4gsGZDJH-0gCMyje-W&usp=drive_fs 
 
 
 ## Autor
